@@ -16,6 +16,8 @@ Metro council wants to know if there are certain days of the week where traffic 
 
 #####  There are two data sets used in this analysis:
 
-The `police_calls` data set contains metro Nashville police department calls for service in 2018.  It can be found here: https://www.opendatanetwork.com/dataset/data.nashville.gov/kwnd-qrrm
+The `police_calls` data set contains metro Nashville police department calls for service in 2018.
 
-The `metro_survey` data base contains survey results with information about satisfaction levels of Nashville residents on a variety of topics.  It can be found here: https://data.nashville.gov/General-Government/Metro-Resident-Survey-Responses/nux7-cwab
+The `metro_survey` data base contains survey results with information about satisfaction levels of Nashville residents on a variety of topics.
+
+Data used for this project can be found on the Nashville open data portal https://data.nashville.gov/
