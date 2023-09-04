@@ -7,7 +7,16 @@
 ##### Part 1: 
 Metro council wants to better understand the relationship between adverse events and levels of dissatisfaction with police.  They want to know if citizens are more dissatisfied with the police in areas where police calls are more frequent. 
 
+##### Part 1 - Results: 
+For some police calls, as the frequency of calls increases, the level of dissatisfaction with the police also increases. These calls include:
+- Missing Person
+- Disorderly Person
+- Person with Weapon
+
 ##### Part 2: 
+Metro council wants to know if there are certain days of the week where traffic violations are more likely to end in a warning as opposed to a citation. 
+
+##### Part 2 Results: 
 Metro council wants to know if there are certain days of the week where traffic violations are more likely to end in a warning as opposed to a citation. 
 
 ---
