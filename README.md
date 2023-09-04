@@ -1,6 +1,6 @@
 # Metro-Council-Consulting
 
-### Problem Description:
+### Problem Description and Results:
 
 #### Metropolitan Council of Nashville and Davidson County has two questions regarding interactions between Nashville citizens and the police. 
 
