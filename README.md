@@ -13,11 +13,18 @@ For some police calls, as the frequency of calls increases, the level of dissati
 - Disorderly Person
 - Person with Weapon
 
+However, for some calls, as the frequency of calls increases, there is little to no change in the level of dissatisfaction with the police.  These calls include: 
+- Community Policing Activity
+- Business Check
+- Intoxicated Person
+
 ##### Part 2: 
 Metro council wants to know if there are certain days of the week where traffic violations are more likely to end in a warning as opposed to a citation. 
 
 ##### Part 2 Results: 
-Metro council wants to know if there are certain days of the week where traffic violations are more likely to end in a warning as opposed to a citation. 
+When looking at traffic violations that end in either a warning or a citation, there is a higher chance of receiving a warning on a weekend compared to a weekday.  
+
+On average, there is an 82.98% chance of receiving a warning on a weekday and an 87.61% chance of receiving a warning on a weekend
 
 ---
 
